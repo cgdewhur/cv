@@ -104,8 +104,10 @@ first-hand account.
 Two details were also introduced or altered without support and are now fixed or
 flagged:
 
-- **Her diagnosis.** Draft 1 said "breast cancer." Charles never said that. The
-  drafts now say only that the cancer moved into her bones. Fill in the truth.
+- **Her diagnosis.** Confirmed: breast cancer, metastatic to the bone. Draft 1
+  had written this before it was confirmed, which happened to be right and was
+  still wrong to do — a guess that lands is not a source. Restored on Charles's
+  confirmation, not on the original guess.
 - **Where his father called from.** Confirmed: Vermont. Resolved in the drafts.
 
 **Your father's work stays in, named.** *Miami Herald*, *Dear America: Letters

@@ -77,7 +77,7 @@ football, or hear whatever strange corner of history he'd gotten into that week.
 
 My mother tried to hold me together. She and my father had been divorced for
 years and still spoke every single day, so she was grieving him too — while her
-own cancer moved into her bones and standing up became painful.
+breast cancer moved into her bones and standing up became painful.
 
 She refused chemo. She took the other treatment until she decided it wasn't
 helping, and then she stopped. Five months after my father died she couldn't
