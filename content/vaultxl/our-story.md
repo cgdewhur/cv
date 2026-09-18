@@ -18,10 +18,11 @@ further than that.
 ## Before
 
 For the first part of my life, basketball was the whole thing. The recruiting
-services had me ranked ahead of a kid across town named Stephen Curry, who went
-to Davidson as a three-star nobody wanted. I had Division I offers and I signed
-with UNC Charlotte — eight NCAA tournaments in eleven years at that point, and
-close enough that my parents could come to games.
+services had me ranked ahead of a kid I'd been playing with and against since
+high school — Stephen Curry, who ended up at Davidson with one Division I offer
+because nobody else wanted him. I had several. I signed with UNC Charlotte:
+eight NCAA tournaments in eleven years at that point, and close enough that my
+parents could come to games.
 
 Rankings are worth what you'd guess. My college career didn't go the way it was
 supposed to. I still got to play professionally overseas, which was the dream,
@@ -51,7 +52,7 @@ increasingly alone in Vermont.
 
 ## January
 
-In January 2021 my father called me. [Confirm: calling from Vermont, or from New York?] His car had broken down, he was out of
+In January 2021 my father called me from Vermont. His car had broken down, he was out of
 food, and there were two feet of snow outside his door. I booked a flight for
 the next morning.
 

@@ -89,16 +89,23 @@ scrutiny. Both were checked afterward and both are correct. They are restored.
   region. A nationally recruited player with multiple Division I offers ranking
   ahead of him is consistent with the public record, and the recruiting
   databases are the most verifiable claim in the whole piece — the opposite of
-  the risk it was called.
+  the risk it was called. Charles adds that he and Curry played with and against
+  each other from high school through college, which is stronger material than
+  the ranking alone and is now how the line is written.
+
+**The pattern behind both errors, for whoever edits this next:** the draft
+recalled a narrower fact than the one being checked (Lutz's tenure, not the
+program's era) and treated the shape of a claim as evidence about its truth. The
+cost is asymmetric — leaving a brag in a draft is cheap, telling the subject his
+own biography sounds invented is not. Verify before cutting anything from a
+first-hand account.
 
 Two details were also introduced or altered without support and are now fixed or
 flagged:
 
 - **Her diagnosis.** Draft 1 said "breast cancer." Charles never said that. The
   drafts now say only that the cancer moved into her bones. Fill in the truth.
-- **Where his father called from.** Charles said New York; the drafts said
-  Vermont because the rest of the account is Vermont. Marked `[Confirm]` in
-  `our-story.md`. Fix before publishing.
+- **Where his father called from.** Confirmed: Vermont. Resolved in the drafts.
 
 **Your father's work stays in, named.** *Miami Herald*, *Dear America: Letters
 Home from Vietnam*, *The Ancient Giants Who Ruled America* — public and
