@@ -18,7 +18,8 @@ of a person.
 > what any of it was worth.
 >
 > I had sold over a million dollars of other people's things online. I still
-> couldn't do it. I rented a unit and paid every month to postpone the decision.
+> couldn't do it. I rented a storage unit and paid $1,000 a month for five years
+> to postpone the decision — $60,000 to avoid opening a door.
 >
 > That's not a death problem. It's a transition problem, and it shows up in
 > downsizing, moving, divorce and retirement too. VaultXL is the system I needed
@@ -70,7 +71,7 @@ Estate attorneys, CPAs, realtors, organizers and senior-move managers are your
 referral channel and they all live here. Post from Charles's personal profile,
 not the company page. Don't boost it.
 
-> I rented a storage unit for [N] years so I wouldn't have to look inside it.
+> I spent $60,000 on a storage unit so I wouldn't have to look inside it.
 >
 > My dad died in January 2021. My mom died five months later. I'm an only child.
 > Both houses came to me, along with a four-month-old and a full-time job.
@@ -83,8 +84,9 @@ not the company page. Don't boost it.
 > Expertise wasn't what I was missing. Capacity was. Grief takes the exact part
 > of your brain that settling an estate requires.
 >
-> So I put it in storage and paid [$XXX] a month to postpone the decision. That's
-> where most of these houses go. The value drops while the bill runs.
+> So I put it in storage. A thousand a month, five years. That's where most of
+> these houses go, and the math is the same for everyone: the value drops while
+> the bill runs.
 >
 > Here's what took me three years to see: that's not a death problem. It's the
 > same locked door when parents downsize after 40 years, when someone moves into
@@ -111,7 +113,7 @@ Subject: `Charlotte founder built an estate company out of his own storage unit`
 > Short pitch. My father died in January 2021; my mother died five months later.
 > I'm an only child, I'd sold over $1 million of other people's things online,
 > and I still couldn't settle their estates. I put both households in a storage
-> unit and paid to avoid it for [N] years.
+> unit and paid $1,000 a month for five years — $60,000 — to avoid it.
 >
 > That unit became a company. VaultXL handles estates, downsizing and
 > transition liquidation in [service area] — [N] clients so far. [News hook.]
@@ -148,7 +150,7 @@ copy, and it's the shot every local news producer will want.
 | 2:10 | Mom, five months later | Photo of her |
 | 2:30 | "I'd sold a million dollars of other people's things. I couldn't price my own mother's living room." | Her house / her things |
 | 2:50 | "Expertise wasn't what I was missing. Capacity was." | You, to camera, no cutaway |
-| 3:05 | The unit. Three years. The bill. | The unit again, wider |
+| 3:05 | "A thousand a month. Five years. Sixty thousand dollars to not open a door." | The unit again, wider |
 | 3:20 | What VaultXL does now — and that it's not only about death | Work footage: cataloging, photographing, a client handoff |
 | 3:45 | "Help people move forward without leaving everything behind." | You, then logo |
 
@@ -176,8 +178,8 @@ things.
 >
 > I want you to know why I do this. I settled my own parents' estates in 2021 —
 > my father in January, my mother five months later. I'm an only child. I did it
-> badly and I did it alone, and a lot of it ended up in a storage unit I'm still
-> paying for.
+> badly and I did it alone, and a lot of it ended up in a storage unit that cost
+> me $1,000 a month for five years.
 >
 > So: nothing gets sold without your written sign-off, and anything you flag as
 > staying with the family stays — no questions, no pressure — even if it's the

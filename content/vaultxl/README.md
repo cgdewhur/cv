@@ -47,9 +47,10 @@ client work to show.
 
 Every figure is bracketed because I won't invent numbers for a VaultXL page.
 
-- **`[$XXX]/month` and `[N] years` on the storage unit.** The most persuasive
-  number in the piece — it converts a sad story into a business thesis. Highest
-  priority.
+- ~~Storage bill~~ **Confirmed: $1,000/month for five years — $60,000.** Now in
+  every draft. This is the number that converts the story into a thesis, and the
+  contrast that makes it land is that it was paid by someone who had sold $1M+
+  online. Never publish the $60,000 without the $1M beside it.
 - `[N]` families/clients so far. If it's two, say two.
 - Pricing: commission range, minimums, walkthrough-to-settlement timeline.
   Transparent pricing is rewarded in search and required by this audience.

@@ -12,8 +12,8 @@ status: draft-2
 
 VaultXL didn't start with a business plan. It started with a storage unit.
 
-To explain how I ended up paying rent on one for [N] years, I have to go back
-further than that.
+To explain how I ended up paying a thousand dollars a month on one for five
+years, I have to go back further than that.
 
 ## Before
 
@@ -118,9 +118,12 @@ I quit my job to make time for it. I still couldn't do it.
 
 So I did what millions of people do. I rented a storage unit, put all of it
 inside, and closed the door. A year passed. Then another. Then another. Nothing
-was solved. I was just paying [$XXX] a month to postpone a decision — while
-paper and textiles and finishes sat through climate swings, and markets moved
-without me.
+was solved. I was paying a thousand dollars a month to postpone a decision.
+
+Five years of that is sixty thousand dollars. I could price a pair of Jordans
+within five dollars from a photo, and I spent the cost of a car to avoid pricing
+my own mother's living room — while the paper and textiles and finishes inside
+sat through five years of climate swings, and the markets moved without me.
 
 ## What I finally understood
 

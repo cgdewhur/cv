@@ -132,8 +132,9 @@ ethical option.
 
 These are what make the claims non-generic. Priority order:
 
-1. **[$XXX]/month × [N] years** — the founder's own storage bill. The single
-   most persuasive number available.
+1. **$1,000/month × 5 years = $60,000** — the founder's own storage bill, paid
+   by a man who had sold $1M+ of other people's things online. The single most
+   persuasive number VaultXL owns. Lead with it.
 2. **[N] families served** to date.
 3. **[X]% average lift** vs. a single-buyer estate-sale offer, on a real job.
 4. **$1M+ sold online** over the founder's career — the credential that says he
