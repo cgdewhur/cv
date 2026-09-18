@@ -22,13 +22,14 @@ The release is about the news; the story is the reason the reporter keeps readin
 FOR IMMEDIATE RELEASE
 Contact: Charles Dewhurst, Founder, VaultXL · [phone] · [email]
 
-## VaultXL launches in Charlotte to handle estate liquidation for families settling a parent's home
+## VaultXL launches in Charlotte to handle the belongings families leave behind in estates, downsizing and moves
 
-**CHARLOTTE, N.C. — [Date]** — VaultXL, an estate liquidation and downsizing
-service, opened for business in [service area] today. The company inventories,
-values, and sells the contents of a home on behalf of executors and families,
-routing items to the sale channel that pays the most for each category rather
-than selling a house's contents to a single buyer at a single price.
+**CHARLOTTE, N.C. — [Date]** — VaultXL, a company that manages belongings
+during major life transitions, opened for business in [service area] today. The
+company inventories, values and sells the contents of a home for families
+settling an estate, downsizing, relocating or dividing a household, routing
+items to the sale channel that pays the most for each category rather than
+selling a house's contents to a single buyer at a single price.
 
 [Paragraph 2 — the news itself: what launched, what it costs, who it serves,
 what makes the method different. Concrete. This is the paragraph the reporter
@@ -54,8 +55,9 @@ VaultXL has worked with [N] families since [date]. Services and pricing are at
 
 ### About VaultXL
 
-VaultXL is an estate liquidation and downsizing company based in Charlotte,
-North Carolina, serving [service area]. [One sentence on what it does.] More at
-[URL].
+VaultXL is a transition services company based in Charlotte, North Carolina,
+serving [service area]. It combines e-commerce, software and physical logistics
+to organize, value, store and sell belongings during estates, downsizing, moves,
+divorce and retirement. More at [URL].
 
 \###
