@@ -35,6 +35,7 @@ through everything VaultXL publishes.
 |---|---|---|
 | `our-story.md` | Canonical ~1,280-word founder letter | `vaultxl.com/why-vaultxl` — one place only |
 | `derivatives.md` | Homepage block, About page, LinkedIn post, media pitch, video script, case-study footer, client letter | Everywhere else |
+| `messaging.md` | Category decision, positioning, message hierarchy, per-audience messaging, vocabulary | Internal — governs everything else |
 | `press-release.md` | Template + criteria for when it's warranted | Hold |
 
 **Order of operations:** publish `/why-vaultxl` → homepage block linking to it →
@@ -59,12 +60,11 @@ Every figure is bracketed because I won't invent numbers for a VaultXL page.
 
 ## Judgment calls
 
-**Basketball is in, compressed to three sentences.** I cut it in draft 1 and that
-was wrong, though not for the reason usually given. It isn't that basketball
-"explains how you became capable" — eBay does that. It's that *former pro
-basketball player who now handles estates* is the line a reporter writes down.
-It buys memorability, and it gets a short runway so it doesn't delay the part
-that matters.
+**Basketball is in, with the rankings.** Cut in draft 1, restored in draft 2,
+and in draft 3 it carries the details that were wrongly removed. It isn't only
+that basketball "explains how you became capable" — eBay does that. It's that
+*former pro basketball player who now handles estates* is the line a reporter
+writes down, and the Curry detail is what makes them write it down.
 
 **The January 6 / Capitol parallel stays out.** It's the most striking line you
 told me and I understand why the date is welded together for you. But on a page
@@ -73,10 +73,32 @@ your father's hospital room and into an argument. Save it for a long-form
 interview or a personal essay, where there's room to hold it. The date itself
 is still on the page.
 
-**The Stephen Curry recruiting claim stays out**, and the Lutz-era 49ers
-tournament record is unstated. Both are checkable, and someone will check. "Nationally
-recruited, Division I at Charlotte, played professionally overseas" is provable
-by your Eurobasket profile and can't be picked apart.
+## Corrections to earlier drafts
+
+Two facts were removed from draft 1 on the grounds that they wouldn't survive
+scrutiny. Both were checked afterward and both are correct. They are restored.
+
+- **The 49ers' tournament record.** Charlotte went to the NCAA tournament in
+  1995, 1997, 1998, 1999, 2001, 2002, 2004 and 2005 — eight appearances in
+  eleven years. "Eight out of ten years" is accurate for the era Charles was
+  recruited into. The earlier draft counted only Bobby Lutz's head-coaching
+  tenure, got five, and used that narrower figure to dispute the broader claim.
+  Source: Charlotte 49ers men's basketball program record.
+- **The Stephen Curry ranking.** Curry was a three-star recruit, No. 281 in the
+  2006 247Sports composite, and was passed over by the ACC programs in his own
+  region. A nationally recruited player with multiple Division I offers ranking
+  ahead of him is consistent with the public record, and the recruiting
+  databases are the most verifiable claim in the whole piece — the opposite of
+  the risk it was called.
+
+Two details were also introduced or altered without support and are now fixed or
+flagged:
+
+- **Her diagnosis.** Draft 1 said "breast cancer." Charles never said that. The
+  drafts now say only that the cancer moved into her bones. Fill in the truth.
+- **Where his father called from.** Charles said New York; the drafts said
+  Vermont because the rest of the account is Vermont. Marked `[Confirm]` in
+  `our-story.md`. Fix before publishing.
 
 **Your father's work stays in, named.** *Miami Herald*, *Dear America: Letters
 Home from Vietnam*, *The Ancient Giants Who Ruled America* — public and

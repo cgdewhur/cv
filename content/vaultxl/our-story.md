@@ -17,14 +17,24 @@ further than that.
 
 ## Before
 
-For the first part of my life, basketball was the whole thing. I was recruited
-nationally, took a Division I scholarship at UNC Charlotte, and played
-professionally overseas. Then, in my mid-twenties, it was over.
+For the first part of my life, basketball was the whole thing. The recruiting
+services had me ranked ahead of a kid across town named Stephen Curry, who went
+to Davidson as a three-star nobody wanted. I had Division I offers and I signed
+with UNC Charlotte — eight NCAA tournaments in eleven years at that point, and
+close enough that my parents could come to games.
 
-I had a marketing degree, but while my classmates were doing internships I was
-in a gym. Nobody was in a hurry to hire a former basketball player with no work
-history. So I went back to something my father and I had started in 1999, when
-we opened an eBay account together. He sold; I became obsessed with the buying
+Rankings are worth what you'd guess. My college career didn't go the way it was
+supposed to. I still got to play professionally overseas, which was the dream,
+and my parents got to tell people their son played pro basketball. Then, in my
+mid-twenties, it was over.
+
+I had a marketing degree from business school, but while my classmates were
+doing the internships that turn into jobs, I was in a gym. They were three years
+up the ladder by the time I came home, and nobody was in a hurry to hire a
+former basketball player with no work history.
+
+So I went back to something my father and I had started in 1999, when we opened
+an eBay account together. He sold; I became obsessed with the buying
 side. Mostly sneakers — Jordans and Air Maxes that never made it to Charlotte
 shelves — and eventually I noticed that the shoes I was buying at retail were
 worth real money to somebody in another state.
@@ -41,7 +51,7 @@ increasingly alone in Vermont.
 
 ## January
 
-In January 2021 my father called me. His car had broken down, he was out of
+In January 2021 my father called me. [Confirm: calling from Vermont, or from New York?] His car had broken down, he was out of
 food, and there were two feet of snow outside his door. I booked a flight for
 the next morning.
 
@@ -66,7 +76,7 @@ football, or hear whatever strange corner of history he'd gotten into that week.
 
 My mother tried to hold me together. She and my father had been divorced for
 years and still spoke every single day, so she was grieving him too — while her
-own cancer moved into her bones and walking became painful.
+own cancer moved into her bones and standing up became painful.
 
 She refused chemo. She took the other treatment until she decided it wasn't
 helping, and then she stopped. Five months after my father died she couldn't
